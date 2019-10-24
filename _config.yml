@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Really cool blog about ... something"
+title: "子午鸟的博客"
+author: "子午鸟"
+description: "写作探索"
 permalink: /:title/
 lang: "en"
 
